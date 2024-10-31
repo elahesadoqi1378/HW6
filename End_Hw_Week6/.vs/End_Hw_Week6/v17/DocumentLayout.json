@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|c:\\users\\arya\\source\\repos\\end_hw_week6\\end_hw_week6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|solutionrelative:end_hw_week6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|c:\\users\\arya\\source\\repos\\end_hw_week6\\end_hw_week6\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|solutionrelative:end_hw_week6\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|c:\\users\\arya\\source\\repos\\end_hw_week6\\end_hw_week6\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|solutionrelative:end_hw_week6\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|c:\\users\\arya\\source\\repos\\end_hw_week6\\end_hw_week6\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|solutionrelative:end_hw_week6\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|c:\\users\\arya\\source\\repos\\end_hw_week6\\end_hw_week6\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|solutionrelative:end_hw_week6\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|c:\\users\\arya\\source\\repos\\end_hw_week6\\end_hw_week6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|solutionrelative:end_hw_week6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|c:\\users\\arya\\source\\repos\\end_hw_week6\\end_hw_week6\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|solutionrelative:end_hw_week6\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|c:\\users\\arya\\source\\repos\\end_hw_week6\\end_hw_week6\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB82191-048D-41E7-AEDF-91BB4C1B2F48}|End_Hw_Week6\\End_Hw_Week6.csproj|solutionrelative:end_hw_week6\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "End_Hw_Week6\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\ILibraryService.cs",
+              "RelativeToolTip": "End_Hw_Week6\\ILibraryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:26:39.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\Authentication.cs",
+              "RelativeDocumentMoniker": "End_Hw_Week6\\Authentication.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\Authentication.cs",
+              "RelativeToolTip": "End_Hw_Week6\\Authentication.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:04:39.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\Storage.cs",
+              "RelativeDocumentMoniker": "End_Hw_Week6\\Storage.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\Storage.cs",
+              "RelativeToolTip": "End_Hw_Week6\\Storage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:57:14.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "End_Hw_Week6\\IAuthentication.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\IAuthentication.cs",
+              "RelativeToolTip": "End_Hw_Week6\\IAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:54:27.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\User.cs",
+              "RelativeDocumentMoniker": "End_Hw_Week6\\User.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\User.cs",
+              "RelativeToolTip": "End_Hw_Week6\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:48:55.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\Program.cs",
+              "RelativeDocumentMoniker": "End_Hw_Week6\\Program.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\Program.cs",
+              "RelativeToolTip": "End_Hw_Week6\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowGcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:43:46.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\LibraryService.cs",
+              "RelativeDocumentMoniker": "End_Hw_Week6\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\LibraryService.cs",
+              "RelativeToolTip": "End_Hw_Week6\\LibraryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:30:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\Book.cs",
+              "RelativeDocumentMoniker": "End_Hw_Week6\\Book.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\End_Hw_Week6\\End_Hw_Week6\\Book.cs",
+              "RelativeToolTip": "End_Hw_Week6\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:44:51.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
